@@ -1,7 +1,7 @@
 <!-- MORFEU / GITHUB PROFILE README -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNyNnE1OHBjeGE5eWZybjkzaGp1c2VqdWI4N3RjczM5eml5dWJvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vV7Jcwkdhzjv1XHN3X/giphy.gif" height="150" alt="Animated character" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNyNnE1OHBjeGE5eWZybjkzaGp1c2VqdWI4N3RjczM5eml5dWJvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vV7Jcwkdhzjv1XHN3X/giphy.gif" height="300" alt="Animated character" />
 
 <h1>hello, world<span style="color:#A41635">.</span> i'm morfeu</h1>
 
