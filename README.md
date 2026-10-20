@@ -1,9 +1,9 @@
 <!-- MORFEU / GITHUB PROFILE README -->
 <div align="center">
-  
+
 <img src="https://media1.tenor.com/m/Sss_zh936J8AAAAC/black-white.gif" height="350" alt="Animated character" />
 
-<h1>hello, world<span style="color:#A41635">.</span> i'm morfeu</h1>
+<h1>hello, world. i'm morfeu</h1>
 
 <p>
   <strong>Computer Science Student · Systems Consultant · Aspiring Full-Stack Developer</strong>
@@ -11,9 +11,9 @@
 
 <p><sub>dreamer.exe — learning, building & figuring things out.</sub></p>
 
-<a href="https://www.linkedin.com/in/kevynmurillo/"><img src="https://img.shields.io/badge/LinkedIn-6D1025?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://youtube.com/@godmorfeu?si=bynAXB8MKX3cgb7v"><img src="https://img.shields.io/badge/YouTube-6D1025?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://discord.com/users/1084598707179237496"><img src="https://img.shields.io/badge/Discord-6D1025?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.linkedin.com/in/kevynmurillo/"><img src="https://img.shields.io/badge/LinkedIn-262626?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@godmorfeu?si=bynAXB8MKX3cgb7v"><img src="https://img.shields.io/badge/YouTube-262626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.com/users/1084598707179237496"><img src="https://img.shields.io/badge/Discord-262626?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
@@ -56,9 +56,9 @@ mindset    dreamer / forever curious
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="Windows" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="38" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="38" alt="Notion" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38" alt="IntelliJ IDEA" />
+  <img src="https://cdn.simpleicons.org/linux/A3A3A3" height="38" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/A3A3A3" height="38" alt="Notion" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/intellijidea/A3A3A3" height="38" alt="IntelliJ IDEA" />
 </p>
 
 ---
@@ -89,6 +89,6 @@ mindset    dreamer / forever curious
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12080D,50:6D1025,100:A41635&height=85&section=footer" width="100%" alt="Cherry red footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:525252,100:A3A3A3&height=85&section=footer" width="100%" alt="Monochrome footer" />
 
 </div>
