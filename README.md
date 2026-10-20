@@ -1,7 +1,7 @@
 <!-- MORFEU / GITHUB PROFILE README -->
 <div align="center">
-
-<img src="https://media1.tenor.com/m/LOxGrjRItygAAAAC/lain-computer.gif" />
+  
+<img src="https://media1.tenor.com/m/LOxGrjRItygAAAAC/lain-computer.gif" height="350" alt="Animated character" />
 
 <h1>hello, world<span style="color:#A41635">.</span> i'm morfeu</h1>
 
