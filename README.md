@@ -1,106 +1,95 @@
-<div align="center">
-  <img src="./assets/header.svg" width="100%" alt="MORFEU — somewhere between logic and dreams." />
-  <br />
-  <a href="https://github.com/Morfeuxz">github</a> · <a href="#about">about</a> · <a href="#currently">currently</a> · <a href="#stack">stack</a> · <a href="#projects">projects</a> · <a href="#beyond-code">beyond code</a> · <a href="#activity">activity</a> · <a href="#contact">contact</a>
-  <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3400&pause=1100&color=C04C70&center=true&vCenter=true&width=680&lines=Systems+consultant+%2F+full-stack+in+progress;Learning+to+build+what+I+once+only+imagined;Curiosity+is+my+favorite+debugger" alt="Animated introduction: systems consultant, learning full stack, driven by curiosity" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNyNnE1OHBjeGE5eWZybjkzaGp1c2VqdWI4N3RjczM5eml5dWJvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vV7Jcwkdhzjv1XHN3X/giphy.gif"  />
 </div>
 
-<a id="about"></a>
-### `01` / hello, world
+###
 
-<!-- DENJI GIF: replace ./assets/denji-placeholder.svg with ./assets/denji-action.gif once you add the GIF to assets/ -->
-<img align="right" width="230" src="./assets/denji-placeholder.svg" alt="Reserved space for a Denji pixel-art action GIF" />
-
-I'm **Kevyn**, but you can call me **Morfeu**. I'm a Computer Science student in Brazil and a **Systems Consultant** working with troubleshooting, user support, incident analysis, system validation and technical documentation.
-
-On the development side, I'm learning through **Java**, object-oriented programming, programming logic and the fundamentals of **Spring Boot**. I'm working toward **full-stack development**, with a growing interest in information security and how complex systems fit together.
-
-I like to know **why** something works, not just that it works.
-
-<br clear="right" />
-
-<a id="currently"></a>
-### `02` / currently
-
-```text
-work       systems consulting · troubleshooting · documentation
-learning   programming logic · Java · OOP · Spring fundamentals
-exploring  full-stack development · information security
-based in   Brazil
-mindset    dreamer / forever curious
-```
-
-<a id="stack"></a>
-### `03` / tools of the trade
-
-**Learning and building with**
-
-![Java](https://img.shields.io/badge/Java-25171E?style=flat-square&logo=openjdk&logoColor=E7C5D0)
-![Spring](https://img.shields.io/badge/Spring_Boot%20%28learning%29-25171E?style=flat-square&logo=springboot&logoColor=E7C5D0)
-![SQL](https://img.shields.io/badge/SQL%20%28learning%29-25171E?style=flat-square&logo=postgresql&logoColor=E7C5D0)
-![Git](https://img.shields.io/badge/Git%20%28learning%29-25171E?style=flat-square&logo=git&logoColor=E7C5D0)
-
-**Everyday tools**
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-17151A?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-17151A?style=flat-square&logo=windows&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-17151A?style=flat-square&logo=linux&logoColor=FFFFFF)
-![Notion](https://img.shields.io/badge/Notion-17151A?style=flat-square&logo=notion&logoColor=FFFFFF)
-
-<a id="projects"></a>
-### `04` / things I'm working toward
-
-> I'd rather show a real work in progress than pretend I've shipped something I haven't.
-
-- **Inventory management application** — a project idea to put Java, business rules, persistence and eventually Spring Boot into practice.
-- **AI agent experiments** — ideas and experiments I'm interested in exploring.
-
-*I'll add repository and demo links as projects become available.*
-
-<a id="beyond-code"></a>
-### `05` / beyond code
-
-A few things that make me, me:
-
-`games` · `music` · `philosophy` · `hardware`
-
-Games, music, and philosophy live somewhere in the background of everything I do. I also enjoy exploring hardware and understanding the systems behind the screen.
-
-> somewhere between logic and dreams.
-
-<a id="activity"></a>
-### `06` / signals from the terminal
-
-<div align="center">
-  <a href="https://github.com/Morfeuxz">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Morfeuxz&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0D10&amp;title_color=C04C70&amp;text_color=D9D3D7&amp;icon_color=C04C70" alt="Morfeuxz GitHub statistics" />
-  </a>
-  <a href="https://github.com/Morfeuxz?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morfeuxz&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D0D10&amp;title_color=C04C70&amp;text_color=D9D3D7" alt="Languages in Morfeuxz public repositories" />
-  </a>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Morfeuxz&amp;label=visitors&amp;color=8A2949&amp;style=flat-square" alt="Profile view counter" />
+###
+
+<h1 data-importer="text" align="center">hello, world</h1>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=0&section=footer&reversal=false&fontSize=70&fontColor=FFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
-<!-- Uncomment after the snake workflow succeeds and creates the output branch.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Morfeuxz contribution grid" />
+###
+
+<h3 data-importer="text" align="left">About me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm Kevyn, but you can call me Morfeu. I'm a Computer Science student in Brazil and a Systems Consultant working with troubleshooting, user support, incident analysis, system validation and technical documentation.<br><br>On the development side, I'm learning through Java, object-oriented programming, programming logic and the fundamentals of Spring Boot. I'm working toward full-stack development, with a growing interest in information security and how complex systems fit together.<br><br>I like to know why something works, not just that it works.</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
 </div>
--->
 
-<sub>Language statistics reflect public repositories, not overall proficiency. Third-party cards may temporarily fail if their services are unavailable.</sub>
+###
 
-<a id="contact"></a>
-### `07` / find me
+<h3 data-importer="text" align="left">Currently</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Morfeuxz-8A2949?style=flat-square&logo=github&logoColor=white)](https://github.com/Morfeuxz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-8A2949?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-murillo-2114a943a/)
+###
 
-I'm interested in **development opportunities**, **information security** and learning from people who like building useful things.
+<h4 data-importer="text" align="left">work       systems consulting · troubleshooting · documentation<br>learning   programming logic · Java · OOP · Spring fundamentals<br>exploring  full-stack development · information security<br>based in   Brazil<br>mindset    dreamer / forever curious</h4>
 
-<div align="center">
-  <sub>still learning, still dreaming. © morfeu</sub>
+###
+
+<h3 data-importer="text" align="left">Tools of the trade</h3>
+
+###
+
+<h4 data-importer="text" align="left">- Learning and building with</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+###
+
+<h4 data-importer="text" align="left">- Everyday tools</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notion/000000" height="30" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="30" alt="intellij logo"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=0&section=footer&reversal=false&fontSize=70&fontColor=FFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+</div>
+
+###
