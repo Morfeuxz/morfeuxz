@@ -1,7 +1,7 @@
 <!-- MORFEU / GITHUB PROFILE README -->
 <div align="center">
 
-<img src="https://tenor.com/lnG6K6EGdqZ.gif" alt="Animated character" />
+<img src="https://media1.tenor.com/m/gqp2nGZEIL8AAAAC/winterfell.gif" />
 
 <h1>hello, world<span style="color:#A41635">.</span> i'm morfeu</h1>
 
