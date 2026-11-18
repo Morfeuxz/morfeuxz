@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/header.jpg" width="720" alt="Morfeu's header artwork" />
+<img src="https://images.alphacoders.com/942/thumb-1920-942108.jpg" />
 
 <h1>hello, world. i'm morfeu</h1>
 
