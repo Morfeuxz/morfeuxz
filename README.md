@@ -117,9 +117,7 @@ I'm studying **Java, OOP, programming logic, and Spring Boot** with a focus on b
 
 <br />
 
-<!-- Quando criar o asset da seção, troque o <h2> abaixo por:
-<h2><img src="assets/sections/04-activity.svg" width="187" alt="04 / github activity" /></h2> -->
-<h2><code>04 / github activity</code></h2>
+<h2><img src="assets/sections/04-activity.svg" width="263" alt="04 / github activity" /></h2>
 
 <div align="center">
 
