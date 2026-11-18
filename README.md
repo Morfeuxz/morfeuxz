@@ -138,8 +138,6 @@ I'm studying **Java, OOP, programming logic, and Spring Boot** with a focus on b
   <img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph.svg?game=bomberman" width="100%" alt="Animated Bomberman graph of GitHub contributions" />
 </picture>
 
-<p><img src="https://media1.tenor.com/m/Sss_zh936J8AAAAC/black-white.gif" width="220" alt="Animated character in black and white" /></p>
-
 <p><sub><a href="https://github.com/Morfeuxz?tab=overview">View activity directly on GitHub ↗</a></sub></p>
 
 </div>
