@@ -157,7 +157,7 @@ Enable this card when the public language widget returns data.
 
 <br />
 
-<img src="assets/footer.svg" width="292" alt="dreamer.exe" />
+<img src="assets/footer.svg" width="200" alt="dreamer.exe" />
 
 <p>
   <a href="https://www.linkedin.com/in/kevynmurillo/"><strong>LinkedIn</strong></a>
