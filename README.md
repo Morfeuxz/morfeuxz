@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/portrait-panel.svg" width="100%" alt="Black-and-white manga portrait in a technical frame" />
+<img src="https://i.pinimg.com/736x/d7/1e/0c/d71e0c82a1fc985e3cffd8223fc54906.jpg" />
 
 <h1>hello, world. i'm morfeu</h1>
 
