@@ -155,7 +155,7 @@ Enable this card when the public language widget returns data.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:A3A3A3,100:0A0A0A&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2" width="100%" alt="" />
 
 <br />
 
