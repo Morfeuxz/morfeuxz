@@ -121,14 +121,19 @@ I'm studying **Java, OOP, programming logic, and Spring Boot** with a focus on b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/stats-output/stats.svg" width="420" alt="GitHub statistics for Morfeu" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Morfeuxz&theme=dark&background=0A0A0A&border=262626&stroke=262626&ring=A3A3A3&fire=D4D4D4&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4D4D4&sideLabels=D4D4D4&dates=A3A3A3&card_width=467" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Morfeuxz&background=FAFAFA&border=D4D4D4&stroke=D4D4D4&ring=525252&fire=262626&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=262626&sideLabels=262626&dates=525252&card_width=467" width="420" alt="Current and longest GitHub contribution streaks for Morfeu" />
-</picture>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/stats-output/stats.svg" width="100%" alt="GitHub statistics for Morfeu" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Morfeuxz&theme=dark&background=0A0A0A&border=262626&stroke=262626&ring=A3A3A3&fire=D4D4D4&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4D4D4&sideLabels=D4D4D4&dates=A3A3A3&card_width=467" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Morfeuxz&background=FAFAFA&border=D4D4D4&stroke=D4D4D4&ring=525252&fire=262626&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=262626&sideLabels=262626&dates=525252&card_width=467" width="100%" alt="Current and longest GitHub contribution streaks for Morfeu" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p><sub><em>every contribution is another step forward.</em></sub></p>
 
@@ -137,6 +142,8 @@ I'm studying **Java, OOP, programming logic, and Spring Boot** with a focus on b
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph.svg?game=bomberman" />
   <img src="https://raw.githubusercontent.com/Morfeuxz/Morfeuxz/pacman-output/bomberman-contribution-graph.svg?game=bomberman" width="100%" alt="Animated Bomberman graph of GitHub contributions" />
 </picture>
+
+<br />
 
 <p><sub><a href="https://github.com/Morfeuxz?tab=overview">View activity directly on GitHub ↗</a></sub></p>
 
